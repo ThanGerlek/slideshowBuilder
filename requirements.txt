@@ -1,0 +1,6 @@
+# Slideshow renderer — Python stdlib for JSON configs.
+# YAML configs (.yaml / .yml) also need:
+PyYAML>=6.0
+# Runtime prerequisite: FFmpeg must be installed and available on PATH.
+#   macOS:  brew install ffmpeg
+#   Ubuntu: sudo apt install ffmpeg

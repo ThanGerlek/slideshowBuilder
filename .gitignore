@@ -1,7 +1,18 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*/__pycache__/
 *.py[codz]
 *$py.class
+
+# PII
+slideshow/photos/
+slideshow/output/
+slideshow/config.json
+slideshow/config.yaml
+slideshow/config.yml
+
+# Misc
+*/.DS_Store
 
 # C extensions
 *.so
